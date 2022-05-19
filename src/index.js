@@ -32,7 +32,7 @@ const App = () => {
         <MenuIcon color="primary" className={classes.largeIcon} />
       </Button>
 
-      <Box sx={{ borderRadius: "50%" }}>سلام</Box>
+      <Box sx={{ borderRadius: "50%" }}>ddd</Box>
     </>
   );
 };
